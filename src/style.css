@@ -1,0 +1,13 @@
+/* Global Styles */
+body, html, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Optional: Basic styling for the game container */
+  .App {
+    height: 100%;
+  }
+  
